@@ -7,7 +7,7 @@
 
 
 ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihyerln&theme=graywhite&show_icons=true)
-<a href="mailto:choi.hyehyehihi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+<br><a href="mailto:choi.hyehyehihi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
 
