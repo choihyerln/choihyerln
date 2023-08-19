@@ -9,6 +9,7 @@
 ![Hyerin's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihyerln&theme=graywhite&show_icons=true)
 <br>
 <a href="https://velog.io/@cwg5656"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@cwg5656"/></a>
+<a href="https://blog.naver.com/hr_1227"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
 <a href="mailto:choi.hyehyehihi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
